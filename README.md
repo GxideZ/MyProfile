@@ -8,3 +8,5 @@ Run `npm run dev` for a dev server. Navigate to `http://localhost:3000/`. The ap
 
 ## About app
 It is an app that shows personal information.
+
+Link : https://profile-4ecd.onrender.com/
